@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts the median home value of a house from 13 neighbourhood features, built with **XGBoost** and **Streamlit**.
 
-** Live demo:** https://house-price-predictor-abhijeet.streamlit.app
+**Live demo:** https://house-price-predictor-abhijeet.streamlit.app
 
 ## About the project
 - **Goal:** predict median house prices from neighbourhood characteristics such as crime rate, number of rooms, tax rate and distance to employment centres.
